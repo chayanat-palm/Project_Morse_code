@@ -58,4 +58,4 @@ while again:
     choice = input("Type 'yes' if you want to try again. Otherwise type 'no'\n").lower()
     if choice == "no":
         again = False
-        print("Goodbye. Thank you for testing my this project.")
+        print("Goodbye. Thank you for testing this project.")
